@@ -1,0 +1,7 @@
+Description: >
+    Micheal / Udacity 2020
+Parameters:
+  EnvironmentName:
+      Description: Single Parameter that we are passing with the env name.
+      Type: String
+Resources:
